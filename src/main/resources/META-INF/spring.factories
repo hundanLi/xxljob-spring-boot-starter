@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+io.github.hundanli.xxljob.spring.boot.autoconfigure.XxlJobAutoConfiguration
